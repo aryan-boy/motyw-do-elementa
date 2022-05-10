@@ -1,5 +1,5 @@
 {
-    "name": "motyw",
+    "name": "motyw1",
     "is_dark": true,
     "colors": {
         "accent-color": "#a3be8c",
@@ -7,10 +7,10 @@
         "warning-color": "#bf616a",
 
         "sidebar-color": "#2e3440",
-        "roomlist-background-color": "#a23035",
+        "roomlist-background-color": "#1b1011",
         "roomlist-text-color": "#ebcb8b",
         "roomlist-text-secondary-color": "#e5e9f0",
-        "roomlist-highlights-color": "#2e3440",
+        "roomlist-highlights-color": "#180f0f",
         "roomlist-separator-color": "#434c5e",
 
         "timeline-background-color": "#1d1212",
