@@ -1,24 +1,22 @@
 {
-    "name": "motyw2",
-    "is_dark": true,
-    "colors": {
-        "accent-color": "#a3be8c",
-        "primary-color": "#88c0d0",
-        "warning-color": "#bf616a",
-
-        "sidebar-color": "#180f0f",
-        "roomlist-background-color": "#1b1011",
-        "roomlist-text-color": "#ebcb8b",
-        "roomlist-text-secondary-color": "#e5e9f0",
-        "roomlist-highlights-color": "#180f0f",
-        "roomlist-separator-color": "#434c5e",
-
-        "timeline-background-color": "#1d1212",
-        "timeline-text-color": "#ffffff",
-        "secondary-content": "#ffffff",
-        "tertiary-content": "#fffffff",
-        "timeline-text-secondary-color": "#c3d589",
-        "timeline-highlights-color": "#1b1011",
-        "reaction-row-button-selected-bg-color": "#bf616a"
-    }
+        "name": "motyw3",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#f2db75",
+          "primary-color": "#f2db75",
+          "warning-color": "#f2db75",
+          "sidebar-color": "#1d1212",
+          "roomlist-background-color": "#1d1212",
+          "roomlist-text-color": "#ffffff",
+          "roomlist-text-secondary-color": "#ffffff",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#00000000",
+          "timeline-background-color": "#1d1212",
+          "timeline-text-color": "#ffffff",
+          "secondary-content": "#ffffff",
+          "tertiary-content": "#ffffff",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
 }
