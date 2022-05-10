@@ -1,0 +1,24 @@
+{
+    "name": "moj motyw",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a3be8c",
+        "primary-color": "#88c0d0",
+        "warning-color": "#bf616a",
+
+        "sidebar-color": "#2e3440",
+        "roomlist-background-color": "#a23035",
+        "roomlist-text-color": "#ebcb8b",
+        "roomlist-text-secondary-color": "#e5e9f0",
+        "roomlist-highlights-color": "#2e3440",
+        "roomlist-separator-color": "#434c5e",
+
+        "timeline-background-color": "#1d1212",
+        "timeline-text-color": "#ffffff",
+        "secondary-content": "#ffffff",
+        "tertiary-content": "#fffffff",
+        "timeline-text-secondary-color": "#c3d589",
+        "timeline-highlights-color": "#a23035",
+        "reaction-row-button-selected-bg-color": "#bf616a"
+    }
+}
