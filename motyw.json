@@ -1,12 +1,12 @@
 {
-        "name": "motyw3",
+        "name": "motyw4",
         "is_dark": true,
         "colors": {
           "accent-color": "#f2db75",
           "primary-color": "#f2db75",
           "warning-color": "#f2db75",
-          "sidebar-color": "#1d1212",
-          "roomlist-background-color": "#1d1212",
+          "sidebar-color": "#503232",
+          "roomlist-background-color": "#503232",
           "roomlist-text-color": "#ffffff",
           "roomlist-text-secondary-color": "#ffffff",
           "roomlist-highlights-color": "#00000030",
