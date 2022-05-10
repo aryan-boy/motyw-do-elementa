@@ -1,12 +1,12 @@
 {
-    "name": "motyw1",
+    "name": "motyw2",
     "is_dark": true,
     "colors": {
         "accent-color": "#a3be8c",
         "primary-color": "#88c0d0",
         "warning-color": "#bf616a",
 
-        "sidebar-color": "#2e3440",
+        "sidebar-color": "#180f0f",
         "roomlist-background-color": "#1b1011",
         "roomlist-text-color": "#ebcb8b",
         "roomlist-text-secondary-color": "#e5e9f0",
@@ -18,7 +18,7 @@
         "secondary-content": "#ffffff",
         "tertiary-content": "#fffffff",
         "timeline-text-secondary-color": "#c3d589",
-        "timeline-highlights-color": "#1d1212",
+        "timeline-highlights-color": "#1b1011",
         "reaction-row-button-selected-bg-color": "#bf616a"
     }
 }
